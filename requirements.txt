@@ -4,3 +4,4 @@ pandas
 plotly
 pandas-datareader
 setuptools
+scipy
